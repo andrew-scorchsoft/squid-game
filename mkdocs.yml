@@ -41,10 +41,11 @@ theme:
 nav:
   - Game Info: 
       - Overview: index.md
+      - Player Evemt Details Memo: event-details-memo.md
       - Pre-Game Prep: pre-game-prep.md
-      - Agenda: agenda.md
+      - Agenda: agenda.md  
       - Games: games.md
-      - Paul's Guide: paul-guide.md
+      - The Plant (Paul's Guide): paul-guide.md
       - Lockbox Treasure Hunt: lockbox-treasure-hunt.md
 
 
@@ -59,6 +60,7 @@ plugins:
   - macros
   - mike:                        # versioned docs (optional)
       canonical_version: latest
+  - print-site
 
 # ─── Markdown Extensions ─────────────────────────────────────────────────────
 markdown_extensions:

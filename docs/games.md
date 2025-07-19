@@ -61,6 +61,7 @@ Welcome to the Squid Game Garden Party! Players will compete through a series of
 - Any player caught moving during "Red Light" is eliminated
 - First player to cross the finish line wins their group
 - Game continues until only one player per group remains or time limit reached (suggested: 5 minutes per group)
+- Power walking only. Those who run will be eliminated (lose a coin).
 
 **Handicap System:**
 
