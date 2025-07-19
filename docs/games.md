@@ -221,14 +221,20 @@ Welcome to the Squid Game Garden Party! Players will compete through a series of
 
 **Rules:**
 
-- Play continues until only 2 players have chips remaining
+- Play continues until only 1 players have chips remaining
 - Standard poker betting and elimination rules apply
 - Players eliminated when they run out of chips
 
 **Advancement:**
 
-- Only the final 2 players advance to the finale
+- Only the final players advance to the finale
 - They keep their chip counts for potential advantages
+
+**Guards Game**
+
+- All losing players so far (now guards) also play poker
+- Single winner from guards table makes it through to the finale
+- They first play Jenga with the person who came 2nd in main poker. If they win, they make it to finale. If they lose, then the person who came second in main game goes through.
 
 ---
 
@@ -239,6 +245,8 @@ Welcome to the Squid Game Garden Party! Players will compete through a series of
 **Setup:**
 
 - Use oversized Jenga blocks or similar stacking game
+- Round 1: Winning loser + 2nd place play first
+- Round 2: Whoever won round 1 plays against the main poker game winner.
 - Only the 2 poker survivors participate
 
 **Rules:**
@@ -291,4 +299,89 @@ A treasure hunt challenge that runs throughout the entire party, where players s
 4. **Safety:** Ensure all activities are safe - modify rules as needed for your space and group
 5. **Engagement:** Encourage dramatic reactions and role-playing
 6. **Backup Plans:** Have alternative games ready in case of equipment issues
+
+---
+
+# Bad Weather Backup Plan
+
+When weather forces the party indoors, use these modified games that work in smaller spaces with minimal setup.
+
+## Modified Main Games
+
+### Group Marbles Championship *(Replaces Red Light, Green Light)*
+
+**Objective:** Team-based marbles competition using strategy and skill.
+
+**Setup:**
+- Divide players into teams of 3-4 people
+- Each team gets a set of marbles (different colors per team)
+- Create a target circle on the floor using tape (3-foot diameter)
+- Place a "golden marble" in the center as the target
+
+**Rules:**
+- Teams take turns shooting marbles toward the center target
+- Each team member shoots once per round
+- **Scoring per round:**
+  - Closest to golden marble: 3 points
+  - Second closest: 2 points  
+  - Third closest: 1 point
+  - All others: 0 points
+- Play 5 rounds total
+
+**Handicap System:**
+- Cost: 1 coin
+- Benefit: Team gets an extra shot each round (any team member can take it)
+
+**Scoring:**
+- **Winning team:** +2 coins per member
+- **Second place team:** 0 coins per member
+- **All other teams:** -1 coin per member
+
+---
+
+### Seated Rock Paper Scissors Tournament *(Replaces Hoop Rock Paper Scissors)*
+
+**Setup:**
+- Arrange chairs in tournament bracket formation
+- Single elimination tournament style
+- All players participate simultaneously in first round
+
+**Rules:**
+- Best of 3 rock paper scissors matches
+- Winners advance to next round bracket
+- Continue until final winner emerges
+
+**Handicap System:**
+- Cost: 1 coin
+- Benefit: Get one "preview" - see opponent's choice before making your own (use once per tournament)
+
+**Scoring:**
+- **Tournament Winner:** +2 coins
+- **Final Two:** +1 coin  
+- **Eliminated in semifinals:** 0 coins
+- **All others:** -1 coin
+
+---
+
+
+### Quarto Finale *(Replaces Giant Jenga)*
+
+**Objective:** Force your opponent to create four-in-a-row while avoiding it yourself.
+
+**Setup:**
+- Use Quarto board game (4x4 grid)
+- 16 pieces with 4 different attributes: tall/short, light/dark, square/round, solid/hollow
+- Only the final 2 poker survivors participate
+
+**Rules:**
+- Players alternate selecting pieces for their opponent to place
+- Goal is to force opponent to create four-in-a-row of any shared attribute
+- **Round 1:** Guards winner vs. 2nd place poker player
+- **Round 2:** Round 1 winner vs. 1st place poker player
+
+**Victory:**
+- **Winner:** Takes all coins and is declared Squid Game Champion
+- **Runner-up:** Receives consolation prize
+
+---
 

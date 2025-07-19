@@ -8,7 +8,8 @@ This document outlines all preparation tasks that must be completed in the days 
 ## Food & Consumables Preparation
 
 ### Sugar Shapes (Dalgona Candy) - **PRIORITY TASK**
-**Timeline:** Must be completed 1-2 days before event (shapes need time to fully cool and harden)
+
+**Timeline:** Must be completed 1-2 days before event 
 
 **Ingredients Per 4 Shapes:**
 - 7 tablespoons sugar
@@ -38,35 +39,28 @@ This document outlines all preparation tasks that must be completed in the days 
 ## Equipment & Materials Preparation
 
 ### Ddakji Tiles
-**Task:** Pre-fold paper tiles for arrival game
-- Create sturdy paper tiles using thick cardstock or construction paper
-- Fold into traditional ddakji shape
-- Prepare 20-30 tiles (extras for replacements)
-- Test folding technique to ensure proper flipping action
+
+**Task:** Ready tiles (already purchased from amazon)
 
 ### Game Setup Materials
 
 **Red Light, Green Light:**
-- Chalk or tape for marking start/finish lines
-- Cones or markers for lane boundaries
+- Use hoops to mark start/finish lines
 - Whistle or bell for guard signals
 
 **Sugar Shapes:**
 - Needles, toothpicks, or similar extraction tools (one per player)
 - Small plates or surfaces for shape placement
-- Magnifying glasses (optional - makes game more challenging/realistic)
 
 **Prisoners Dilemma:**
-- Decision cards labeled "Cooperate" and "Betray" (2 sets per expected pair)
-- Privacy screens or barriers for secret decision making
+- Whiteboard cards with pens so people can write "Split" or "Steal"
 - Timer for discussion periods
 
 **Hoop Rock Paper Scissors:**
-- Hula hoops or circular markers (recommend 8-10 hoops)
-- Team identification items (colored bandanas, stickers, etc.)
+- Mini hoops (recommend ~20 hoops)
 
 **Glass Walkway:**
-- Tiles or marked squares (12-16 total for 6-8 pairs)
+- Again, we can use the hoops (12-16 total for 6-8 pairs)
 - Number cards (1 through total number of players)
 - Safe/unsafe tile marking system (visible only to guards)
 
