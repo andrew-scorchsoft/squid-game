@@ -1,0 +1,124 @@
+/* Squid Game Themed CSS */
+/* Custom styling for Squid Game documentation */
+
+:root {
+  /* Squid Game Color Palette */
+  --squid-pink: #F7418F;
+  --squid-dark-pink: #D63384;
+  --squid-red: #DC143C;
+  --squid-black: #1A1A1A;
+  --squid-white: #FFFFFF;
+  --squid-green: #00A86B;
+  --squid-yellow: #FFD700;
+}
+
+/* Override Material Design colors with Squid Game palette */
+.md-header {
+  background-color: var(--squid-pink) !important;
+}
+
+.md-header--shadow {
+  box-shadow: 0 0 0.2rem rgba(247, 65, 143, 0.1), 0 0.2rem 0.5rem rgba(247, 65, 143, 0.2) !important;
+}
+
+/* Navigation styling */
+.md-tabs {
+  background-color: var(--squid-dark-pink) !important;
+}
+
+.md-tabs__link {
+  color: var(--squid-white) !important;
+  font-weight: 600;
+}
+
+.md-tabs__link--active {
+  color: var(--squid-yellow) !important;
+}
+
+/* Sidebar navigation */
+.md-nav__link--active {
+  color: var(--squid-pink) !important;
+  font-weight: 600;
+}
+
+/* Primary buttons and links */
+a {
+  color: var(--squid-pink);
+}
+
+a:hover {
+  color: var(--squid-dark-pink);
+}
+
+/* Code blocks */
+.highlight {
+  background-color: var(--squid-black) !important;
+}
+
+/* Custom headings with Squid Game styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: var(--squid-black);
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--squid-pink);
+  --md-accent-fg-color: var(--squid-red);
+}
+
+[data-md-color-scheme="slate"] h1,
+[data-md-color-scheme="slate"] h2,
+[data-md-color-scheme="slate"] h3,
+[data-md-color-scheme="slate"] h4,
+[data-md-color-scheme="slate"] h5,
+[data-md-color-scheme="slate"] h6 {
+  color: var(--squid-white);
+}
+
+/* Search box styling */
+.md-search__input {
+  background-color: rgba(255, 255, 255, 0.12);
+  color: var(--squid-white);
+}
+
+.md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.54);
+}
+
+/* Footer customization */
+.md-footer {
+  background-color: var(--squid-black) !important;
+}
+
+.md-footer-meta {
+  background-color: rgba(26, 26, 26, 0.87) !important;
+}
+
+/* Admonition styling with Squid Game colors */
+.md-typeset .admonition.note {
+  border-color: var(--squid-pink);
+}
+
+.md-typeset .admonition.warning {
+  border-color: var(--squid-yellow);
+}
+
+.md-typeset .admonition.danger {
+  border-color: var(--squid-red);
+}
+
+.md-typeset .admonition.success {
+  border-color: var(--squid-green);
+}
+
+/* Custom styling for tables */
+.md-typeset table:not([class]) th {
+  background-color: var(--squid-pink);
+  color: var(--squid-white);
+}
+
+.md-typeset table:not([class]) tr:hover {
+  background-color: rgba(247, 65, 143, 0.04);
+} 

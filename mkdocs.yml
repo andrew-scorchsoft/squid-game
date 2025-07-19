@@ -1,0 +1,107 @@
+# Squid Game themed MkDocs configuration
+# Save as mkdocs.yml at the repository root
+
+site_name: "Squid Game Documentation"
+site_description: "Documentation for the Squid Game project"
+site_url: "https://docs.squidgame.com/"
+# repo_name: "squid-game/squid"
+# repo_url: "https://github.com/squid-game/squid"
+edit_uri: "edit/main/docs/"
+
+# ─── Theme ────────────────────────────────────────────────────────────────────
+theme:
+  name: material
+  # logo: assets/images/scorchsoft-logo-white-500.png  # removed logo
+  # favicon: assets/images/scorchsoft-logo-red-500.png  # removed favicon
+  palette:
+    # light mode - Squid Game pink theme
+    - scheme: default
+      primary: pink              # Squid Game signature pink
+      accent: red
+    # dark mode - darker with pink accents
+    - scheme: slate
+      primary: pink
+      accent: red
+  font:
+    text: "Roboto"
+    code: "Fira Code"
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy            # adds copy‑button to code blocks
+    - content.tabs.link            # deep‑link tab selections
+  icon:
+    repo: fontawesome/brands/github
+
+# ─── Navigation ───────────────────────────────────────────────────────────────
+nav:
+  - Game Info: 
+      - Overview: index.md
+      - Agenda: agenda.md
+      - Games: games.md
+
+
+# ─── Plugins ──────────────────────────────────────────────────────────────────
+plugins:
+  - search
+  - awesome-pages                # keeps nav tidy without manual ordering
+  - git-revision-date-localized: # shows "Last updated" with nice format
+      enable_creation_date: true
+      fallback_to_build_date: true  # fallback when git is not available
+  - markdownextradata
+  - macros
+  - mike:                        # versioned docs (optional)
+      canonical_version: latest
+
+# ─── Markdown Extensions ─────────────────────────────────────────────────────
+markdown_extensions:
+  - admonition
+  - abbr
+  - footnotes
+  - tables
+  - attr_list
+  - def_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - pymdownx.snippets
+
+# ─── Extra Assets ─────────────────────────────────────────────────────────────
+extra_css:
+  - assets/css/scorchsoft.css     # Squid Game branding: custom pink theme and styling
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+  - assets/js/mermaid-enhancements.js
+
+# ─── Extra Config ─────────────────────────────────────────────────────────────
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/squid-game/squid
+    - icon: fontawesome/solid/gamepad
+      link: https://squidgame.com
+  generator: false                # hide "Made with MkDocs" footer
