@@ -41,8 +41,11 @@ theme:
 nav:
   - Game Info: 
       - Overview: index.md
+      - Pre-Game Prep: pre-game-prep.md
       - Agenda: agenda.md
       - Games: games.md
+      - Paul's Guide: paul-guide.md
+      - Lockbox Treasure Hunt: lockbox-treasure-hunt.md
 
 
 # ─── Plugins ──────────────────────────────────────────────────────────────────
