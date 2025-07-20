@@ -167,6 +167,24 @@ where memories gather alongside the cobwebs.
 
 ### Last Location
 
+**Clue Text:**
+```
+GUARD INTELLIGENCE UPDATE
+=====================================
+CONGRATULATIONS, PLAYER.
+
+You have successfully navigated the shadows and uncovered all fragments of the security protocol. Your persistence in the face of uncertainty has proven you worthy of the ultimate test.
+
+The four digits you have collected hold the key to unlocking what lies within the secured lockbox. But remember - in these games, even victory comes with consequences. What awaits inside may change the balance of power among the remaining players.
+
+Return to the lockbox with your complete combination. Enter the digits in the order you discovered them, and claim what the Front Man has deemed you worthy to possess.
+
+Time is running short. The final games approach. Use your newfound advantage wisely.
+
+THE GUARDS ARE WATCHING.
+=====================================
+```
+
 - **Location:** Loft / Attic
 - **Code Fragment:** 2
 
