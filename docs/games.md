@@ -210,6 +210,16 @@ Welcome to the Squid Game Garden Party! Players will compete through a series of
 
 ---
 
+### 5.5. Sudden Death Marbles (optional if high player count remains)
+
+When we played glass walkway we ended up with 11 people out of 20 making it through because a high coin count playwr went first.
+
+To solve this we introduced a sudden death mmables game between rounds 5 and 6. Players had to form pairs, then we played them against eachother. Loser was eliminated regardless of coin count.
+
+As we had odd numbers, we allowed one group of three where the two losers of the team were eliminated. Brutal but effective.
+
+---
+
 ### 6. Poker Round
 
 **Objective:** Eliminate players through poker until only 2 remain.
