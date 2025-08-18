@@ -172,10 +172,12 @@ Welcome to the Squid Game Garden Party! Players will compete through a series of
 
 **Setup:**
 
-- Create a walkway with 6 pairs of tiles (approximate to player count at this point)
+- Create a walkway with pairs of tiles
+- Number of tiles to use: Player Count + higher of mean/median coin count.
 - Mark one tile in each pair as "safe" and one as "unsafe" (guards know the pattern)
 - Number cards for determining crossing order 
 - Explain game time limit and how if people don't cross in time they are eliminated completely.
+
 
 **Game Reveal & Advantages:**
 
